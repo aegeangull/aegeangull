@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on websites, web apps, and other fun things
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning UX/UI
 - 👯 I’m not looking to collaborate right now
 - 🤔 I’m looking for help finding a remote job
 - 💬 Ask me about anything you want
